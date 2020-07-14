@@ -1,4 +1,4 @@
-@media (min-width:768px){
+@media (min-width:768px)and(max-width:770px){
     .logo{
     transform:translateY(20px);
     padding-left:5%;
